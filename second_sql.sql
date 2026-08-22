@@ -1,0 +1,2 @@
+%sql
+select '1'
